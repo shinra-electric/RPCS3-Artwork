@@ -12,13 +12,15 @@ The icons are all 1920x1056 and the compilation screens are 1920x1080.
 <img src="assets/icons/Dead Space/Icon.png" width="140" align="left" />
 <img src="assets/icons/Demon's Souls/Icon.png" width="140" align="left" />
 <img src="assets/icons/Enslaved/Icon.png" width="140" align="left" />
+<img src="assets/icons/Fallout 3/Icon.png" width="140" align="left" />
 <img src="assets/icons/Fallout New Vegas/Icon.png" width="140" align="left" />
 <img src="assets/icons/Final Fantasy X X-2/Icon.png" width="140" align="left" />
 <img src="assets/icons/Final Fantasy XIII/Icon.png" width="140" align="left" />
 <img src="assets/icons/God of War Ascension/Icon.png" width="140" align="left" />
 <img src="assets/icons/GTA IV/Icon.png" width="140" align="left" />
 <img src="assets/icons/Heavenly Sword/Icon.png" width="140" align="left" />
-<img src="assets/icons/ICO & Shadow of the Colossus/Icon.png" width="140" align="left" />
+<img src="assets/icons/Ico/Icon.png" width="140" align="left" />
+<img src="assets/icons/Ico & Shadow of the Colossus/Icon.png" width="140" align="left" />
 <img src="assets/icons/Ni no Kuni/Icon.png" width="140" align="left" />
 <img src="assets/icons/Nier Replicant/Icon.png" width="140" align="left" />
 <img src="assets/icons/Puppeteer/Icon.png" width="140" align="left" />
