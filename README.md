@@ -7,8 +7,8 @@ The icons are all 1920x1056 and the compilation screens are 1920x1080.
 
 ## Icons
 <img src="assets/icons/Arkham Origins/Icon.png" width="140" align="left" />
-<img src="assets/icons/Dark Souls II SotFS/Icon.png" width="140" align="left" />
 <img src="assets/icons/Dark Souls PtDE/Icon.png" width="140" align="left" />
+<img src="assets/icons/Dark Souls II SotFS/Icon.png" width="140" align="left" />
 <img src="assets/icons/Dead Space/Icon.png" width="140" align="left" />
 <img src="assets/icons/Demon's Souls/Icon.png" width="140" align="left" />
 <img src="assets/icons/Enslaved/Icon.png" width="140" align="left" />
