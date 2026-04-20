@@ -1,11 +1,11 @@
 # RPCS3-Artwork
 <img src="assets/rpcs3.png" width="160" align="right" />
+
 Icon and compilation screen artwork for [RPCS3](https://rpcs3.net) that replaces the official game icons and compilation screens, as well as the Pixelmator templates used to make them. <br><br> Compilation screens are only included where the ones that shipped with the game were not very good.
 
 The icons are all 1920x1056 and the compilation screens are 1920x1080. 
 
 ## Icons
-
 <img src="assets/icons/Arkham Origins/Icon.png" width="120" align="left" />
 <img src="assets/icons/Dark Souls II SotFS/Icon.png" width="120" align="left" />
 <img src="assets/icons/Dark Souls PtDE/Icon.png" width="120" align="left" />
