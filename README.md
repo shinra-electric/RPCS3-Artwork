@@ -21,6 +21,7 @@ The icons are all 1920x1056 and the compilation screens are 1920x1080.
 [<img src="assets/icons/Heavenly Sword/thumbnail.jpg" width="140" align="left" />](assets/icons/Heavenly%20Sword/Icon.png "Heavenly Sword")
 [<img src="assets/icons/Ico/thumbnail.jpg" width="140" align="left" />](assets/icons/Ico/Icon.png "Ico")
 [<img src="assets/icons/Ico & Shadow of the Colossus/thumbnail.jpg" width="140" align="left" />](assets/icons/Ico%20&%20Shadow%20of%20the%20Colossus/Icon.png "Ico & Shadow of the Colossus")
+[<img src="assets/icons/Killzone/thumbnail.jpg" width="140" align="left" />](assets/icons/Killzone/Icon.png "Killzone")
 [<img src="assets/icons/Ni no Kuni/thumbnail.jpg" width="140" align="left" />](assets/icons/Ni%20no%20Kuni/Icon.png "二の国")
 [<img src="assets/icons/Nier Replicant/thumbnail.jpg" width="140" align="left" />](assets/icons/Nier%20Replicant/Icon.png "Nier Replicant")
 [<img src="assets/icons/Puppeteer/thumbnail.jpg" width="140" align="left" />](assets/icons/Puppeteer/Icon.png "Puppeteer")
