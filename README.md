@@ -27,3 +27,5 @@ The icons are all 1920x1056 and the compilation screens are 1920x1080.
 [<img src="assets/icons/Puppeteer/thumbnail.jpg" width="140" align="left" />](assets/icons/Puppeteer/Icon.png "Puppeteer")
 [<img src="assets/icons/Shadow of the Colossus/thumbnail.jpg" width="140" align="left" />](assets/icons/Shadow%20of%20the%20Colossus/Icon.png "Shadow of the Colossus")
 [<img src="assets/icons/The Last of Us/thumbnail.jpg" width="140" align="left" />](assets/icons/The%20Last%20of%20Us/Icon.png "The Last of Us")
+[<img src="assets/icons/Zone of the Enders/thumbnail.jpg" width="140" align="left" />](assets/icons/Zone%20of%20the%20Enders/Icon.png "Zone of the Enders")
+[<img src="assets/icons/Zone of the Enders Alt 1/thumbnail.jpg" width="140" align="left" />](assets/icons/Zone%20of%20the%20Enders%20Alt%201/Icon.png "Zone of the Enders Alt 1")
